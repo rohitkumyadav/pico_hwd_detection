@@ -1,7 +1,7 @@
 
 # **pico-hwd-detection**
 
-`pico-hwd-detection` is a Python module designed for seamless hotword detection powered by the Picovoice platform. This module stands out for its speed, simplicity, and accuracy, making it an ideal choice for developers needing real-time voice activation capabilities. Easy to integrate with minimal configuration, it offers ongoing updates to ensure optimal performance and reliability.You can find the source code and contribute on: [Github]()
+`pico-hwd-detection` is a Python module designed for seamless hotword detection powered by the Picovoice platform. This module stands out for its speed, simplicity, and accuracy, making it an ideal choice for developers needing real-time voice activation capabilities. Easy to integrate with minimal configuration, it offers ongoing updates to ensure optimal performance and reliability.You can find the source code and contribute on: [Github](https://github.com/rohitkumyadav/pico_hwd_detection.git)
 ## **Overview**
 Voice-controlled technologies have become indispensable in the modern digital era. With the growing prevalence of virtual assistants like Siri, Alexa, and Google Assistant, users expect intuitive, voice-driven interactions with their devices. At the core of such systems lies the vital feature of **hotword detection**, which activates these devices, enabling real-time voice interaction.
 

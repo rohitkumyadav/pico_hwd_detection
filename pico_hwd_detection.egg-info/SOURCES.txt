@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 pico_hwd_detection/__init__.py
